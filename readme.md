@@ -2,15 +2,15 @@
 
 ## Introduction
 
-This is a ``YOUTUBE + TWITTER`` backend project that covers allmost the functionalities of youtube 
+This is a ``YOUTUBE`` backend project that covers allmost the functionalities of youtube 
 and also combines the tweet functionality from twitter into it. Find more about his project in the documentaion below.
 
-## Important links
+<!-- ## Important links
 
 | Content            | Link                                                                        |
 | -------------------| ----------------------------------------------------------------------------|
 | API Documentation  | [click here](https://documenter.getpostman.com/view/28570926/2s9YsNdVwW)    |
-| Model              | [click here ](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)         |
+| Model              | [click here ](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)         | -->
 
 ## Features
 
@@ -74,13 +74,13 @@ and also combines the tweet functionality from twitter into it. Find more about 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Hruthik-28/youtube-twitter.git
+    git clone https://github.com/akmroyal/Video-Tube-Backend.git
     ```
 
 2. **Install dependencies:**
 
     ```bash
-    cd youtube-twitter
+    cd video-tube-backend
     npm install
     ```
 
@@ -97,6 +97,3 @@ and also combines the tweet functionality from twitter into it. Find more about 
 
 If you wish to contribute to this project, please feel free to contribute.
 
-## License
-
-This project is licensed under [ChaiAurCode](https://www.youtube.com/@chaiaurcode).
