@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a ``YOUTUBE`` backend project that covers allmost the functionalities of youtube 
+This is a ``VIDEOTUBE`` backend project that covers allmost the functionalities of youtube 
 and also combines the tweet functionality from twitter into it. Find more about his project in the documentaion below.
 
 <!-- ## Important links
@@ -11,6 +11,13 @@ and also combines the tweet functionality from twitter into it. Find more about 
 | -------------------| ----------------------------------------------------------------------------|
 | API Documentation  | [click here](https://documenter.getpostman.com/view/28570926/2s9YsNdVwW)    |
 | Model              | [click here ](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)         | -->
+
+## Live Visit 
+- **URL Link**: [See Here Link](https://ak-videotube.vercel.app/)
+- **Snapshots**: ![Image](https://raw.githubusercontent.com/akmroyal/Video-Tube-frontend/refs/heads/main/ak-videotube.vercel.app_.png)
+
+## Note 
+- **Visit Frontend Repo** : [Go Here](https://github.com/akmroyal/Video-Tube-frontend.git)
 
 ## Features
 
